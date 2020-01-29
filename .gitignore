@@ -1,0 +1,8 @@
+.DS_Store
+*.iml
+/build/
+/bin/
+target/
+.idea
+classes/
+META-INF/
